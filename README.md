@@ -1,2 +1,0 @@
-# CVitae
-Curriculum Vitæ
